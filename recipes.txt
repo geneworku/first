@@ -7,3 +7,4 @@ itto
 
 pasta
 shiro
+thank you
