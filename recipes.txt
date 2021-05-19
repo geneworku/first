@@ -8,3 +8,4 @@ itto
 pasta
 shiro
 thank you
+galatoma
